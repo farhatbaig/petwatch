@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bella",
+    "type": "Dog",
+    "age": 2,
+    "image": "https://placedog.net/400/300?id=1",
+    "description": "Friendly and playful golden retriever."
+  },
+  {
+    "id": 2,
+    "name": "Milo",
+    "type": "Cat",
+    "age": 1,
+    "image": "https://loremflickr.com/400/300/cat.jpg",
+    "description": "Curious and cuddly tabby cat."
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "type": "Dog",
+    "age": 3,
+    "image": "https://placedog.net/400/300?id=2",
+    "description": "Energetic beagle who loves walks."
+  }
+] 
